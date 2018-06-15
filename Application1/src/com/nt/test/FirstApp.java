@@ -6,6 +6,7 @@ public class FirstApp {
 		System.out.println("welcome");
 		System.out.println("hello");
 		System.out.println("world");
+		System.out.println("Hello git");
 	}
 
 }
